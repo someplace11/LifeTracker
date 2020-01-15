@@ -1,0 +1,10 @@
+E:\E-Documents\C#\LifeTracker\bin\Debug\LifeTracker.exe.config
+E:\E-Documents\C#\LifeTracker\bin\Debug\LifeTracker.exe
+E:\E-Documents\C#\LifeTracker\bin\Debug\LifeTracker.pdb
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.csprojAssemblyReference.cache
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.formLifeTracker.resources
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.Properties.Resources.resources
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.csproj.GenerateResource.cache
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.csproj.CoreCompileInputs.cache
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.exe
+E:\E-Documents\C#\LifeTracker\obj\Debug\LifeTracker.pdb
